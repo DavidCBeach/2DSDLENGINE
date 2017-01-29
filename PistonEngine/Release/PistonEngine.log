@@ -1,0 +1,7 @@
+﻿  InputManager.cpp
+  Twist.cpp
+  TwistBatch.cpp
+TwistBatch.cpp(25): warning C4018: '<': signed/unsigned mismatch
+TwistBatch.cpp(63): warning C4018: '<': signed/unsigned mismatch
+TwistBatch.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  PistonEngine.vcxproj -> C:\Users\cauly\Documents\Visual Studio 2015\Projects\Graphics\Release\PistonEngine.lib

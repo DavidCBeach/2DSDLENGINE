@@ -1,0 +1,25 @@
+﻿  InputManager.cpp
+c:\users\cauly\documents\visual studio 2015\projects\graphics\pistonengine\inputmanager.cpp(50): warning C4101: 'isPressed': unreferenced local variable
+  Camera2D.cpp
+  Generating Code...
+  Compiling...
+  Timing.cpp
+c:\users\cauly\documents\visual studio 2015\projects\graphics\pistonengine\timing.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\cauly\documents\visual studio 2015\projects\graphics\pistonengine\timing.cpp(17): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\cauly\documents\visual studio 2015\projects\graphics\pistonengine\timing.cpp(37): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\cauly\documents\visual studio 2015\projects\graphics\pistonengine\timing.cpp(38): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  Twist.cpp
+  Generating Code...
+  Compiling...
+  TwistBatch.cpp
+c:\users\cauly\documents\visual studio 2015\projects\graphics\pistonengine\twistbatch.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\cauly\documents\visual studio 2015\projects\graphics\pistonengine\twistbatch.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\cauly\documents\visual studio 2015\projects\graphics\pistonengine\twistbatch.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+glew32.lib(glew32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+opengl32.lib(OPENGL32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  PistonEngine.vcxproj -> C:\Users\cauly\Documents\Visual Studio 2015\Projects\Graphics\Debug\PistonEngine.lib
